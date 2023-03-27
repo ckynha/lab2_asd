@@ -1,0 +1,5 @@
+3
+11
+kirpich 4 25
+svekla 2 50
+arbuz 7 100 
